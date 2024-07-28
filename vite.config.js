@@ -6,6 +6,6 @@ export default defineConfig({
   plugins: [react()],
   build: {
     sourcemap: true,
-    base: '/node_fs98_front_Vanlsh'
   },
+  base: '/node_fs98_front_Vanlsh',
 });
